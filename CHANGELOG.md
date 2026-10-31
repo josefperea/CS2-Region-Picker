@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 3.1.0
 - Added Russian (Русский) interface language.
 
 ## 3.0.0
