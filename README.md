@@ -11,7 +11,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6?logo=windows)
 ![License](https://img.shields.io/badge/license-Freeware-green)
-![Languages](https://img.shields.io/badge/lang-EN%20%7C%20ES%20%7C%20PT-orange)
+![Languages](https://img.shields.io/badge/lang-EN%20%7C%20ES%20%7C%20PT%20%7C%20RU-orange)
 
 [English](#english) · [Español](#español)
 
@@ -42,7 +42,7 @@ It does **not** touch the game: no injection, no memory access, no file changes.
 - 🔄 **Self-updating rules** — when Valve changes relay IPs, your rules are re-applied on the next launch.
 - 💾 **Persistent** — rules stay after closing the app and after rebooting.
 - 🧳 **Portable** — one `.exe`, nothing to install.
-- 🌐 English, Español, Português.
+- 🌐 English, Español, Português, Русский.
 
 ### Download & use
 1. Download `CS2RegionPicker.exe` from [Releases](../../releases/latest).
@@ -95,7 +95,7 @@ CS2 Region Picker bloquea, con reglas del Firewall de Windows, las IPs del Steam
 - 🔄 **Reglas que se actualizan solas**: si Valve cambia las IPs de los relays, se reaplican al abrir el programa.
 - 💾 **Persistente**: las reglas siguen al cerrar la app y al reiniciar el PC.
 - 🧳 **Portable**: un solo `.exe`, sin instalar nada.
-- 🌐 English, Español, Português.
+- 🌐 English, Español, Português, Русский.
 
 ### Descarga y uso
 1. Descarga `CS2RegionPicker.exe` desde [Releases](../../releases/latest).

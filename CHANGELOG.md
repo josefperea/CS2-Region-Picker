@@ -1,5 +1,8 @@
 # Changelog
 
+## Unreleased
+- Added Russian (Русский) interface language.
+
 ## 3.0.0
 - Single small `.exe` (C#, WinForms) — nothing to install.
 - Interactive world map: click servers, drag, zoom, line from your location to the chosen servers.
