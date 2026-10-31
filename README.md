@@ -17,9 +17,13 @@
 
 </div>
 
-<!-- Add a screenshot at docs/screenshot.png and uncomment:
-<p align="center"><img src="docs/screenshot.png" alt="Screenshot" width="860"></p>
--->
+<p align="center"><img src="docs/screenshot-selection.png" alt="CS2 Region Picker — 4 regions allowed / 4 regiones permitidas" width="880"></p>
+<p align="center"><sub>Only 4 regions allowed, with lines from your location · Solo 4 regiones permitidas, con líneas desde tu ubicación</sub></p>
+
+<details>
+<summary>More screenshots / Más capturas</summary>
+<p align="center"><img src="docs/screenshot-all.png" alt="All regions allowed with ping / Todas las regiones permitidas con ping" width="880"></p>
+</details>
 
 ---
 
